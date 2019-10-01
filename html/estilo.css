@@ -1,0 +1,17 @@
+.contenedor {
+	background-color: grey;
+	width: 800px
+	margin: 10px 0 none;
+	display: inline-block;
+}
+.imagen1{
+	width: 20%;
+	margin: 50px 10px 0;
+	background-color: blue;
+	float: left;
+}
+
+.imagen2{
+	width: 70%;
+	float: right;
+}
